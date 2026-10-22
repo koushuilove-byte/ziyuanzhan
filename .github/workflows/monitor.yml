@@ -42,6 +42,10 @@ jobs:
         run: |
           python monitor.py
 
+      - name: Generate subscription JSON
+        run: |
+          python generate_subscription.py
+
       - name: Clean old history files
         run: |
           cd docs/data

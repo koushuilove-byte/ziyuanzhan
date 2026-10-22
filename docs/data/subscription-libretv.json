@@ -1,0 +1,384 @@
+{
+  "name": "ziyuanzu-在线资源站",
+  "sources": [
+    {
+      "name": "新极品资源站",
+      "url": "https://jipinvip1.com/api.php/provide/vod",
+      "detail": "新极品资源采集站，无广告无水印秒播",
+      "isAdult": false
+    },
+    {
+      "name": "暴风资源站",
+      "url": "https://bfzyapi.com/api.php/provide/vod",
+      "detail": "暴风资源采集站，秒播体验无水印",
+      "isAdult": false
+    },
+    {
+      "name": "辣椒资源站",
+      "url": "https://apilj.com/api.php/provide/vod",
+      "detail": "辣椒资源采集站，提供影视资源API接口",
+      "isAdult": false
+    },
+    {
+      "name": "奶香香资源站",
+      "url": "https://naixxzy.com/api.php/provide/vod",
+      "detail": "奶香香资源采集站，提供影视资源API接口",
+      "isAdult": false
+    },
+    {
+      "name": "最大资源站",
+      "url": "http://zuidazy.me/api.php/provide/vod",
+      "detail": "最大资源采集站，资源量最大",
+      "isAdult": false
+    },
+    {
+      "name": "牛牛资源",
+      "url": "https://api.niuniuzy.me/api.php/provide/vod",
+      "detail": "牛牛资源采集站，稳定高速",
+      "isAdult": false
+    },
+    {
+      "name": "无尽资源站",
+      "url": "https://api.wujinapi.me/api.php/provide/vod",
+      "detail": "无尽资源采集站，资源丰富稳定",
+      "isAdult": false
+    },
+    {
+      "name": "红牛资源站",
+      "url": "http://hongniuzy2.com/api.php/provide/vod",
+      "detail": "红牛资源采集站，m3u8直链，老牌稳定",
+      "isAdult": false
+    },
+    {
+      "name": "豪华资源站",
+      "url": "https://haohuazy.com/api.php/provide/vod",
+      "detail": "豪华资源采集站，无广告无水印",
+      "isAdult": false
+    },
+    {
+      "name": "魔都资源站",
+      "url": "https://www.mdzyapi.com/api.php/provide/vod",
+      "detail": "魔都资源采集站，资源丰富稳定",
+      "isAdult": false
+    },
+    {
+      "name": "360资源站",
+      "url": "https://360zy.com/api.php/provide/vod",
+      "detail": "360资源采集站，提供影视资源API接口",
+      "isAdult": false
+    },
+    {
+      "name": "鲨鱼资源站",
+      "url": "https://shayuapi.com/api.php/provide/vod",
+      "detail": "鲨鱼资源采集站，提供影视资源API接口",
+      "isAdult": false
+    },
+    {
+      "name": "索尼采集站",
+      "url": "https://suonizy.net/api.php/provide/vod",
+      "detail": "索尼采集站，资源丰富稳定",
+      "isAdult": false
+    },
+    {
+      "name": "JKUN资源站",
+      "url": "https://jkunzyapi.com/api.php/provide/vod",
+      "detail": "JKUN资源采集站，提供影视资源API接口",
+      "isAdult": false
+    },
+    {
+      "name": "大X子资源站",
+      "url": "https://apidanaizi.com/api.php/provide/vod",
+      "detail": "大X子资源采集站，提供影视资源API接口",
+      "isAdult": false
+    },
+    {
+      "name": "鸭鸭资源站",
+      "url": "https://cj.yayazy.net/api.php/provide/vod",
+      "detail": "丫丫资源采集站，资源丰富稳定",
+      "isAdult": false
+    },
+    {
+      "name": "金鹰资源站",
+      "url": "https://jyzyapi.com/provide/vod",
+      "detail": "金鹰资源采集站，m3u8直链",
+      "isAdult": false
+    },
+    {
+      "name": "速播资源站",
+      "url": "https://subocj.com/api.php/provide/vod",
+      "detail": "速播资源采集站，JSON接口",
+      "isAdult": false
+    },
+    {
+      "name": "虎牙资源站",
+      "url": "https://huyazy.net/api.php/provide/vod",
+      "detail": "虎牙资源采集站，资源丰富",
+      "isAdult": false
+    },
+    {
+      "name": "极速资源站",
+      "url": "https://jszyapi.com/api.php/provide/vod",
+      "detail": "极速资源采集站，JSON接口",
+      "isAdult": false
+    },
+    {
+      "name": "樱花资源站",
+      "url": "https://m3u8.apiyhzy.com/api.php/provide/vod",
+      "detail": "樱花资源采集站，提供影视资源API接口",
+      "isAdult": false
+    },
+    {
+      "name": "黑料资源站",
+      "url": "https://heiliaozyapi.com/api.php/provide/vod",
+      "detail": "黑料资源采集站，提供影视资源API接口",
+      "isAdult": false
+    },
+    {
+      "name": "飘零影院资源站",
+      "url": "https://p2100.net/api.php/provide/vod",
+      "detail": "飘零影院采集站，资源丰富",
+      "isAdult": false
+    },
+    {
+      "name": "非凡资源站",
+      "url": "https://ffzy5.tv/api.php/provide/vod",
+      "detail": "非凡资源采集站，JSON接口",
+      "isAdult": false
+    },
+    {
+      "name": "天涯影视资源站",
+      "url": "https://tyyszyapi.com/api.php/provide/vod",
+      "detail": "天涯影视资源采集站，稳定可靠",
+      "isAdult": false
+    },
+    {
+      "name": "爱奇艺资源站",
+      "url": "https://iqiyizyapi.com/api.php/provide/vod",
+      "detail": "爱奇艺资源采集站，资源丰富",
+      "isAdult": false
+    },
+    {
+      "name": "精品X资源站",
+      "url": "https://www.jingpinx.com/api.php/provide/vod",
+      "detail": "精品X资源采集站，提供影视资源API接口",
+      "isAdult": false
+    },
+    {
+      "name": "猫眼资源",
+      "url": "https://api.maoyanapi.top/api.php/provide/vod",
+      "detail": "猫眼资源采集站，稳定可靠",
+      "isAdult": false
+    },
+    {
+      "name": "细胞网资源站",
+      "url": "https://www.xxibaozyw.com/api.php/provide/vod",
+      "detail": "细胞网资源采集站，提供影视资源API接口",
+      "isAdult": false
+    },
+    {
+      "name": "森林资源站",
+      "url": "https://slapibf.com/api.php/provide/vod",
+      "detail": "森林资源采集站，提供影视资源API接口",
+      "isAdult": false
+    },
+    {
+      "name": "155资源站",
+      "url": "https://155api.com/api.php/provide/vod",
+      "detail": "155资源采集站，提供影视资源API接口",
+      "isAdult": false
+    },
+    {
+      "name": "茅台资源站",
+      "url": "https://mtzy5.com/api.php/provide/vod",
+      "detail": "茅台资源采集站，稳定更新",
+      "isAdult": false
+    },
+    {
+      "name": "豆瓣资源站",
+      "url": "https://dbzy.tv/api.php/provide/vod",
+      "detail": "豆瓣资源采集站，稳定更新",
+      "isAdult": false
+    },
+    {
+      "name": "光速资源站",
+      "url": "https://api.guangsuapi.com/api.php/provide/vod",
+      "detail": "光速加载资源站，m3u8直链",
+      "isAdult": false
+    },
+    {
+      "name": "百度云资源站",
+      "url": "https://api.apibdzy.com/api.php/provide/vod",
+      "detail": "百度云资源采集站，资源丰富稳定",
+      "isAdult": false
+    },
+    {
+      "name": "百花资源站",
+      "url": "https://bhziyuan.com/api.php/provide/vod",
+      "detail": "百花资源采集站，提供影视资源API接口",
+      "isAdult": false
+    },
+    {
+      "name": "乐播资源站",
+      "url": "https://lbapi9.com/api.php/provide/vod",
+      "detail": "乐播资源采集站，提供影视资源API接口",
+      "isAdult": false
+    },
+    {
+      "name": "奥斯卡资源站",
+      "url": "https://aosikazy.com/api.php/provide/vod",
+      "detail": "奥斯卡资源采集站，提供影视资源API接口",
+      "isAdult": false
+    },
+    {
+      "name": "玉兔资源站",
+      "url": "https://apiyutu.com/api.php/provide/vod",
+      "detail": "玉兔资源采集站，提供影视资源API接口",
+      "isAdult": false
+    },
+    {
+      "name": "老色X资源站",
+      "url": "https://apilsbzy1.com/api.php/provide/vod",
+      "detail": "老色X资源采集站，提供影视资源API接口",
+      "isAdult": false
+    },
+    {
+      "name": "艾旦资源站",
+      "url": "https://lovedan.net/api.php/provide/vod",
+      "detail": "艾旦影视资源采集站，资源丰富",
+      "isAdult": false
+    },
+    {
+      "name": "桃花资源站",
+      "url": "https://thzy1.me/api.php/provide/vod",
+      "detail": "桃花资源采集站，提供影视资源API接口",
+      "isAdult": false
+    },
+    {
+      "name": "黄色仓库资源",
+      "url": "https://hsckzy888.com/api.php/provide/vod",
+      "detail": "黄色仓库资源采集站，提供影视资源API接口",
+      "isAdult": false
+    },
+    {
+      "name": "色猫资源站",
+      "url": "https://caiji.semaozy.net/inc/api.php",
+      "detail": "色猫资源采集站，提供影视资源API接口",
+      "isAdult": false
+    },
+    {
+      "name": "麻豆资源站",
+      "url": "https://91md.me/api.php/provide/vod",
+      "detail": "麻豆资源采集站，提供影视资源API接口",
+      "isAdult": false
+    },
+    {
+      "name": "香蕉资源站",
+      "url": "https://www.xiangjiaozyw.com/api.php/provide/vod",
+      "detail": "香蕉资源采集站，提供影视资源API接口",
+      "isAdult": false
+    },
+    {
+      "name": "番号资源站",
+      "url": "http://fhapi9.com/api.php/provide/vod",
+      "detail": "番号资源采集站，提供影视资源API接口",
+      "isAdult": false
+    },
+    {
+      "name": "湿乐园资源站",
+      "url": "https://xxavs.com/api.php/provide/vod",
+      "detail": "湿乐园采集站，提供影视资源API接口",
+      "isAdult": false
+    },
+    {
+      "name": "小鸡资源站",
+      "url": "https://api.xiaojizy.live/provide/vod",
+      "detail": "小鸡资源采集站，提供影视资源API接口",
+      "isAdult": false
+    },
+    {
+      "name": "大地资源站",
+      "url": "https://dadiapi.com/api.php",
+      "detail": "大地资源采集站，提供影视资源API接口",
+      "isAdult": false
+    },
+    {
+      "name": "越南资源站",
+      "url": "https://api.vnzyz.com/api.php/provide/vod",
+      "detail": "越南资源采集站，提供影视资源API接口",
+      "isAdult": false
+    },
+    {
+      "name": "搜av资源站",
+      "url": "https://api.souavzyw.net/api.php/provide/vod",
+      "detail": "搜av资源采集站",
+      "isAdult": true
+    },
+    {
+      "name": "番茄资源站",
+      "url": "https://fqzy.me/api.php/provide/vod",
+      "detail": "番茄资源采集站，提供影视资源API接口",
+      "isAdult": false
+    },
+    {
+      "name": "杏吧资源站",
+      "url": "https://json.xingba222.com/api.php/provide/vod",
+      "detail": "杏吧资源采集站，提供影视资源API接口",
+      "isAdult": false
+    },
+    {
+      "name": "爱坤资源站",
+      "url": "https://ikunzyapi.com/api.php/provide/vod",
+      "detail": "爱坤资源采集站，提供影视资源API接口",
+      "isAdult": false
+    },
+    {
+      "name": "豆豆资源站",
+      "url": "https://api.douapi.cc/api.php/provide/vod",
+      "detail": "豆豆资源采集站",
+      "isAdult": true
+    },
+    {
+      "name": "滴滴资源站",
+      "url": "https://api.ddapi.cc/api.php/provide/vod",
+      "detail": "滴滴资源采集站，提供影视资源API接口",
+      "isAdult": false
+    },
+    {
+      "name": "美少女资源站",
+      "url": "https://www.msnii.com/api/json.php",
+      "detail": "美少女资源采集站",
+      "isAdult": true
+    },
+    {
+      "name": "香X儿资源站",
+      "url": "https://www.gdlsp.com/api/json.php",
+      "detail": "香X儿资源采集站",
+      "isAdult": true
+    },
+    {
+      "name": "黄av资源站",
+      "url": "https://www.pgxdy.com/api/json.php",
+      "detail": "黄av资源采集站",
+      "isAdult": true
+    },
+    {
+      "name": "X水机资源站",
+      "url": "https://www.xrbsp.com/api/json.php",
+      "detail": "X水机资源采集站",
+      "isAdult": true
+    },
+    {
+      "name": "白嫖资源站",
+      "url": "https://www.kxgav.com/api/json.php",
+      "detail": "白嫖资源采集站",
+      "isAdult": true
+    },
+    {
+      "name": "如意资源站",
+      "url": "https://api.ryzy.com/api.php/provide/vod",
+      "detail": "如意资源采集站，提供影视资源API接口",
+      "isAdult": false
+    }
+  ],
+  "liveSources": []
+}
